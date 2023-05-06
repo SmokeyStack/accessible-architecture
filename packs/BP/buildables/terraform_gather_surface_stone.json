@@ -1,0 +1,42 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "components": {
+            "badger:buildable_presentation": {
+                "buildable_category": "utility",
+                "icon": "utility",
+                "sort_order": 1500,
+                "tactical_description": "terraform_gather_surface_stone",
+                "tooltip_description": "terraform_gather_surface_stone",
+                "tooltip_title": "terraform_gather_surface_stone"
+            },
+            "badger:buildable_requirement": {
+                "invalid_block_tags": [],
+                "invalid_blocks": []
+            },
+            "badger:buildable_structure": {
+                "build_time": 0,
+                "construction_end_trigger": "on_construction_end",
+                "construction_start_trigger": "on_construction_start",
+                "nbt_file": "terraform_gather_surface_stone"
+            },
+            "badger:tags": {
+                "tags": [
+                    "terraform_gather_surface_stone"
+                ]
+            },
+            "badger:template": [
+                "badger:template_structure"
+            ]
+        },
+        "description": {
+            "identifier": "accessible_architecure:terraform_gather_surface_stone",
+            "is_summonable": true,
+            "runtime_identifier": "badger:buildable"
+        },
+        "mushroom_data": {
+            "function": "Military",
+            "type": "Piglin"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "components": {
+            "badger:buildable_presentation": {
+                "buildable_category": "utility",
+                "icon": "utility",
+                "sort_order": 1500,
+                "tactical_description": "tree_birch_yel_02",
+                "tooltip_description": "tree_birch_yel_02",
+                "tooltip_title": "tree_birch_yel_02"
+            },
+            "badger:buildable_requirement": {
+                "invalid_block_tags": [],
+                "invalid_blocks": []
+            },
+            "badger:buildable_structure": {
+                "build_time": 0,
+                "construction_end_trigger": "on_construction_end",
+                "construction_start_trigger": "on_construction_start",
+                "nbt_file": "nature/tree_birch_yel_02"
+            },
+            "badger:tags": {
+                "tags": [
+                    "tree_birch_yel_02"
+                ]
+            },
+            "badger:template": [
+                "badger:template_structure"
+            ]
+        },
+        "description": {
+            "identifier": "accessible_architecure:tree_birch_yel_02",
+            "is_summonable": true,
+            "runtime_identifier": "badger:buildable"
+        },
+        "mushroom_data": {
+            "function": "Military",
+            "type": "Piglin"
+        }
+    }
+}

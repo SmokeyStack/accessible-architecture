@@ -1,0 +1,42 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "components": {
+            "badger:buildable_presentation": {
+                "buildable_category": "utility",
+                "icon": "utility",
+                "sort_order": 1500,
+                "tactical_description": "tower_piglin_shield",
+                "tooltip_description": "tower_piglin_shield",
+                "tooltip_title": "tower_piglin_shield"
+            },
+            "badger:buildable_requirement": {
+                "invalid_block_tags": [],
+                "invalid_blocks": []
+            },
+            "badger:buildable_structure": {
+                "build_time": 0,
+                "construction_end_trigger": "on_construction_end",
+                "construction_start_trigger": "on_construction_start",
+                "nbt_file": "tower_piglin_shield"
+            },
+            "badger:tags": {
+                "tags": [
+                    "tower_piglin_shield"
+                ]
+            },
+            "badger:template": [
+                "badger:template_structure"
+            ]
+        },
+        "description": {
+            "identifier": "accessible_architecure:tower_piglin_shield",
+            "is_summonable": true,
+            "runtime_identifier": "badger:buildable"
+        },
+        "mushroom_data": {
+            "function": "Military",
+            "type": "Piglin"
+        }
+    }
+}

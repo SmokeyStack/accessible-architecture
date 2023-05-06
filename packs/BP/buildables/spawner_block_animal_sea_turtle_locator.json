@@ -1,0 +1,42 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "components": {
+            "badger:buildable_presentation": {
+                "buildable_category": "utility",
+                "icon": "utility",
+                "sort_order": 1500,
+                "tactical_description": "spawner_block_animal_sea_turtle_locator",
+                "tooltip_description": "spawner_block_animal_sea_turtle_locator",
+                "tooltip_title": "spawner_block_animal_sea_turtle_locator"
+            },
+            "badger:buildable_requirement": {
+                "invalid_block_tags": [],
+                "invalid_blocks": []
+            },
+            "badger:buildable_structure": {
+                "build_time": 0,
+                "construction_end_trigger": "on_construction_end",
+                "construction_start_trigger": "on_construction_start",
+                "nbt_file": "spawner_block_animal_sea_turtle_locator"
+            },
+            "badger:tags": {
+                "tags": [
+                    "spawner_block_animal_sea_turtle_locator"
+                ]
+            },
+            "badger:template": [
+                "badger:template_structure"
+            ]
+        },
+        "description": {
+            "identifier": "accessible_architecure:spawner_block_animal_sea_turtle_locator",
+            "is_summonable": true,
+            "runtime_identifier": "badger:buildable"
+        },
+        "mushroom_data": {
+            "function": "Military",
+            "type": "Piglin"
+        }
+    }
+}

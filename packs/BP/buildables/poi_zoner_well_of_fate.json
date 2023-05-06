@@ -1,0 +1,42 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "components": {
+            "badger:buildable_presentation": {
+                "buildable_category": "utility",
+                "icon": "utility",
+                "sort_order": 1500,
+                "tactical_description": "poi_zoner_well_of_fate",
+                "tooltip_description": "poi_zoner_well_of_fate",
+                "tooltip_title": "poi_zoner_well_of_fate"
+            },
+            "badger:buildable_requirement": {
+                "invalid_block_tags": [],
+                "invalid_blocks": []
+            },
+            "badger:buildable_structure": {
+                "build_time": 0,
+                "construction_end_trigger": "on_construction_end",
+                "construction_start_trigger": "on_construction_start",
+                "nbt_file": "poi_zoner_well_of_fate"
+            },
+            "badger:tags": {
+                "tags": [
+                    "poi_zoner_well_of_fate"
+                ]
+            },
+            "badger:template": [
+                "badger:template_structure"
+            ]
+        },
+        "description": {
+            "identifier": "accessible_architecure:poi_zoner_well_of_fate",
+            "is_summonable": true,
+            "runtime_identifier": "badger:buildable"
+        },
+        "mushroom_data": {
+            "function": "Military",
+            "type": "Piglin"
+        }
+    }
+}
