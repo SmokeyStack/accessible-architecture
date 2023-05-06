@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Flat world to place all structures",
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ],
+        "name": "All the Structures",
+        "uuid": "095ae258-86a3-490e-8dc8-59d6e757f2c7",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "27a850a6-2745-4c81-b7b1-800da17c5a13",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

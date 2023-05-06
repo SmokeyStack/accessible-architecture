@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Bedrock-OSS/regolith-schemas/main/config/v1.1.json",
+	"author": "SmokeyStack",
+	"name": "accessible_architecture",
+	"packs": {
+		"behaviorPack": "./packs/BP",
+		"resourcePack": "./packs/RP"
+	},
+	"regolith": {
+		"dataPath": "./packs/data",
+		"filterDefinitions": {},
+		"profiles": {
+			"dev": {
+				"export": {
+					"target": "exact",
+					"rpPath": "%APPDATA%/Minecraft Legends/internalStorage/premium_cache/resource_packs/accessible_architecture_rp",
+					"bpPath": "%APPDATA%/Minecraft Legends/internalStorage/premium_cache/behavior_packs/accessible_architecture_bp"
+				},
+				"filters": []
+			}
+		}
+	}
+}
