@@ -17,6 +17,12 @@
 					"bpPath": "%APPDATA%/Minecraft Legends/internalStorage/premium_cache/behavior_packs/accessible_architecture_bp"
 				},
 				"filters": []
+			},
+			"build": {
+				"export": {
+					"target": "local"
+				},
+				"filters": []
 			}
 		}
 	}
