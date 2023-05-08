@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10106,
                 "tactical_description": "prop_defend_burned_tree",
                 "tooltip_description": "prop_defend_burned_tree",
                 "tooltip_title": "prop_defend_burned_tree"

@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10157,
                 "tactical_description": "spawner_block_animal_pig_forest",
                 "tooltip_description": "spawner_block_animal_pig_forest",
                 "tooltip_title": "spawner_block_animal_pig_forest"

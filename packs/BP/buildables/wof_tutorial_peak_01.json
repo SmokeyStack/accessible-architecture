@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10270,
                 "tactical_description": "wof_tutorial_peak_01",
                 "tooltip_description": "wof_tutorial_peak_01",
                 "tooltip_title": "wof_tutorial_peak_01"

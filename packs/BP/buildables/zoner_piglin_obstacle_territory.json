@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10286,
                 "tactical_description": "zoner_piglin_obstacle_territory",
                 "tooltip_description": "zoner_piglin_obstacle_territory",
                 "tooltip_title": "zoner_piglin_obstacle_territory"

@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10076,
                 "tactical_description": "poi_loot_treasure_chest",
                 "tooltip_description": "poi_loot_treasure_chest",
                 "tooltip_title": "poi_loot_treasure_chest"

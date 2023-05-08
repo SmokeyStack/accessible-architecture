@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10079,
                 "tactical_description": "poi_mob_alliance_creeper_deco_02",
                 "tooltip_description": "poi_mob_alliance_creeper_deco_02",
                 "tooltip_title": "poi_mob_alliance_creeper_deco_02"

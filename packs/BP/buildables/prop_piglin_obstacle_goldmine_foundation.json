@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10129,
                 "tactical_description": "prop_piglin_obstacle_goldmine_foundation",
                 "tooltip_description": "prop_piglin_obstacle_goldmine_foundation",
                 "tooltip_title": "prop_piglin_obstacle_goldmine_foundation"

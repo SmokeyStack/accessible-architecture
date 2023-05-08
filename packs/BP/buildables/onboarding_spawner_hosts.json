@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10054,
                 "tactical_description": "onboarding_spawner_hosts",
                 "tooltip_description": "onboarding_spawner_hosts",
                 "tooltip_title": "onboarding_spawner_hosts"

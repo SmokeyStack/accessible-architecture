@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10252,
                 "tactical_description": "tower_shotgun",
                 "tooltip_description": "tower_shotgun",
                 "tooltip_title": "tower_shotgun"

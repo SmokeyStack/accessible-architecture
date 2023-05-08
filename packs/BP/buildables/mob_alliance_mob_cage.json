@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10048,
                 "tactical_description": "mob_alliance_mob_cage",
                 "tooltip_description": "mob_alliance_mob_cage",
                 "tooltip_title": "mob_alliance_mob_cage"

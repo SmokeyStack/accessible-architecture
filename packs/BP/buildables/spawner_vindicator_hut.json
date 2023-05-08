@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10203,
                 "tactical_description": "spawner_vindicator_hut",
                 "tooltip_description": "spawner_vindicator_hut",
                 "tooltip_title": "spawner_vindicator_hut"

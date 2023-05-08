@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10295,
                 "tactical_description": "wof_pillar_01",
                 "tooltip_description": "wof_pillar_01",
                 "tooltip_title": "wof_pillar_01"

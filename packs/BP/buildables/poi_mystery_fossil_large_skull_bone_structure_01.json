@@ -5,7 +5,7 @@
             "badger:buildable_presentation": {
                 "buildable_category": "utility",
                 "icon": "utility",
-                "sort_order": 1500,
+                "sort_order": 10096,
                 "tactical_description": "poi_mystery_fossil_large_skull_bone_structure_01",
                 "tooltip_description": "poi_mystery_fossil_large_skull_bone_structure_01",
                 "tooltip_title": "poi_mystery_fossil_large_skull_bone_structure_01"
