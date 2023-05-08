@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_zoner_well_of_fate",
+            "identifier": "accessible_architecture:poi_zoner_well_of_fate",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

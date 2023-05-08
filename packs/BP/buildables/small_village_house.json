@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:small_village_house",
+            "identifier": "accessible_architecture:small_village_house",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

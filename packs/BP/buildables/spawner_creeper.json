@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_creeper",
+            "identifier": "accessible_architecture:spawner_creeper",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

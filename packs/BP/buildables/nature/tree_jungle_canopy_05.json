@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_jungle_canopy_05",
+            "identifier": "accessible_architecture:tree_jungle_canopy_05",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

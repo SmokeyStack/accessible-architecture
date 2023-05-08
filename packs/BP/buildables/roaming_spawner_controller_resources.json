@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:roaming_spawner_controller_resources",
+            "identifier": "accessible_architecture:roaming_spawner_controller_resources",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

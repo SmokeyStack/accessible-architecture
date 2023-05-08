@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_oasisvine_large_01",
+            "identifier": "accessible_architecture:tree_oasisvine_large_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

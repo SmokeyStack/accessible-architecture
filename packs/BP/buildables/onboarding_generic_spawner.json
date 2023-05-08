@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:onboarding_generic_spawner",
+            "identifier": "accessible_architecture:onboarding_generic_spawner",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_zombie",
+            "identifier": "accessible_architecture:spawner_zombie",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

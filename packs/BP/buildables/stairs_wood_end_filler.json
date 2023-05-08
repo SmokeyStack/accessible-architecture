@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:stairs_wood_end_filler",
+            "identifier": "accessible_architecture:stairs_wood_end_filler",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

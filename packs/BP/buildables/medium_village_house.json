@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:medium_village_house",
+            "identifier": "accessible_architecture:medium_village_house",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

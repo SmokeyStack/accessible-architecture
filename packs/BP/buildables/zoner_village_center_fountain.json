@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_village_center_fountain",
+            "identifier": "accessible_architecture:zoner_village_center_fountain",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

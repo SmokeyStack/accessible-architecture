@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_piglin_goldmine_foundation",
+            "identifier": "accessible_architecture:prop_piglin_goldmine_foundation",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

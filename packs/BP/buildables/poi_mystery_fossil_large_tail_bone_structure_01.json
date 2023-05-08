@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_mystery_fossil_large_tail_bone_structure_01",
+            "identifier": "accessible_architecture:poi_mystery_fossil_large_tail_bone_structure_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

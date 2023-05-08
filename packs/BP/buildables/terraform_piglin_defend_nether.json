@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:terraform_piglin_defend_nether",
+            "identifier": "accessible_architecture:terraform_piglin_defend_nether",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

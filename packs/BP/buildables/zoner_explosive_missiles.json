@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_explosive_missiles",
+            "identifier": "accessible_architecture:zoner_explosive_missiles",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:gate_piglin_defend",
+            "identifier": "accessible_architecture:gate_piglin_defend",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

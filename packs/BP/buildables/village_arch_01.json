@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:village_arch_01",
+            "identifier": "accessible_architecture:village_arch_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

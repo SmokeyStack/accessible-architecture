@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_oasiscliff_02",
+            "identifier": "accessible_architecture:tree_oasiscliff_02",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

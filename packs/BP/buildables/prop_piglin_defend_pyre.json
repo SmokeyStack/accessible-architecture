@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_piglin_defend_pyre",
+            "identifier": "accessible_architecture:prop_piglin_defend_pyre",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

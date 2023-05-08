@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_shaggytree_b",
+            "identifier": "accessible_architecture:tree_shaggytree_b",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

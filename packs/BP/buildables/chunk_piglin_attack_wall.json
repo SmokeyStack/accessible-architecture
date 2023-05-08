@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:chunk_piglin_attack_wall",
+            "identifier": "accessible_architecture:chunk_piglin_attack_wall",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

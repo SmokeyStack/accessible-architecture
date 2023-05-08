@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_piglin_increased_range_missiles",
+            "identifier": "accessible_architecture:zoner_piglin_increased_range_missiles",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

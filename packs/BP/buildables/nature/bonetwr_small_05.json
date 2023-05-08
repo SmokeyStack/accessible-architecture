@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:bonetwr_small_05",
+            "identifier": "accessible_architecture:bonetwr_small_05",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

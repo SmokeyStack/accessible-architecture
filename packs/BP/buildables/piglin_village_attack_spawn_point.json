@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:piglin_village_attack_spawn_point",
+            "identifier": "accessible_architecture:piglin_village_attack_spawn_point",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

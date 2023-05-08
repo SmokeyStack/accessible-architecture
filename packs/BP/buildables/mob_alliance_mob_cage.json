@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:mob_alliance_mob_cage",
+            "identifier": "accessible_architecture:mob_alliance_mob_cage",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

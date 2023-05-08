@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:gate_door_piglin_open",
+            "identifier": "accessible_architecture:gate_door_piglin_open",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

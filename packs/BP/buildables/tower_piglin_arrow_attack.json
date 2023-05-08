@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tower_piglin_arrow_attack",
+            "identifier": "accessible_architecture:tower_piglin_arrow_attack",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:piglin_rallying_point",
+            "identifier": "accessible_architecture:piglin_rallying_point",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

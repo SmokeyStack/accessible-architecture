@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:super_nether_spreader",
+            "identifier": "accessible_architecture:super_nether_spreader",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

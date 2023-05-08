@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:onboarding_wof_wall_var03",
+            "identifier": "accessible_architecture:onboarding_wof_wall_var03",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_regen_structures",
+            "identifier": "accessible_architecture:zoner_regen_structures",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

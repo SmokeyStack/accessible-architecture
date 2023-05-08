@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tem_onboarding_world_central_piece",
+            "identifier": "accessible_architecture:tem_onboarding_world_central_piece",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

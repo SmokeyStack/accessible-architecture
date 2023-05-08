@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:onboarding_building_blocker_wide",
+            "identifier": "accessible_architecture:onboarding_building_blocker_wide",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

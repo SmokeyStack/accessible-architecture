@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:lava_coils",
+            "identifier": "accessible_architecture:lava_coils",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

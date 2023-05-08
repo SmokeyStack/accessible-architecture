@@ -19,6 +19,7 @@
 		"enableunlocks": true,
 		"entitystreamingenabled": true,
 		"exclusiveluredunits": true,
+		"generator_type": "flat",
 		"mapenabled": true,
 		"onboardingenabledcampaign": false,
 		"onboardingenabledpvp": false,
@@ -30,7 +31,6 @@
 		"teamcolors": false,
 		"use_flatlands_level_id": false,
 		"useactiontelemetry": false,
-		"worldsizeaxischunks": 300,
-		"generator_type": "flat"
+		"worldsizeaxischunks": 300
 	}
 }

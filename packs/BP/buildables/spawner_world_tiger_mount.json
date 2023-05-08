@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_world_tiger_mount",
+            "identifier": "accessible_architecture:spawner_world_tiger_mount",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

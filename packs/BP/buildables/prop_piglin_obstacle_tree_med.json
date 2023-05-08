@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_piglin_obstacle_tree_med",
+            "identifier": "accessible_architecture:prop_piglin_obstacle_tree_med",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

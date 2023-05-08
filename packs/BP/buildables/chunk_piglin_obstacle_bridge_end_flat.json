@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:chunk_piglin_obstacle_bridge_end_flat",
+            "identifier": "accessible_architecture:chunk_piglin_obstacle_bridge_end_flat",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

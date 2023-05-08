@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:wof_upgrade_medium",
+            "identifier": "accessible_architecture:wof_upgrade_medium",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

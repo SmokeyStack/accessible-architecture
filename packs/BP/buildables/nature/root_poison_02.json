@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:root_poison_02",
+            "identifier": "accessible_architecture:root_poison_02",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

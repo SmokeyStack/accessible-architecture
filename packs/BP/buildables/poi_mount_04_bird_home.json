@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_mount_04_bird_home",
+            "identifier": "accessible_architecture:poi_mount_04_bird_home",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

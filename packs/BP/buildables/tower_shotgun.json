@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tower_shotgun",
+            "identifier": "accessible_architecture:tower_shotgun",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

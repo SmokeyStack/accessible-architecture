@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:onboarding_village_chest_buildable",
+            "identifier": "accessible_architecture:onboarding_village_chest_buildable",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

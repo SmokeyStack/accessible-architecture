@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_fallen_warrior_body",
+            "identifier": "accessible_architecture:poi_fallen_warrior_body",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:mysterious_rock_02",
+            "identifier": "accessible_architecture:mysterious_rock_02",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

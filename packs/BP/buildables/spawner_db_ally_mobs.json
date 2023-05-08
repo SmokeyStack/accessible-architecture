@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_db_ally_mobs",
+            "identifier": "accessible_architecture:spawner_db_ally_mobs",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

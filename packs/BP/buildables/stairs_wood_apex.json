@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:stairs_wood_apex",
+            "identifier": "accessible_architecture:stairs_wood_apex",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

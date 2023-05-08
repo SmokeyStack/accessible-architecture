@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_poi_mob_alliance_zombie_4",
+            "identifier": "accessible_architecture:prop_poi_mob_alliance_zombie_4",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

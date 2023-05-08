@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_fort_outpost_pvp",
+            "identifier": "accessible_architecture:zoner_fort_outpost_pvp",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

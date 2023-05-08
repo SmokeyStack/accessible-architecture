@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_piglin_obstacle_mushroom_sml",
+            "identifier": "accessible_architecture:prop_piglin_obstacle_mushroom_sml",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

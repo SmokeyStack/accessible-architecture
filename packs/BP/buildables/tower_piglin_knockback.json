@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tower_piglin_knockback",
+            "identifier": "accessible_architecture:tower_piglin_knockback",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

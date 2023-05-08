@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_silverbark_04",
+            "identifier": "accessible_architecture:tree_silverbark_04",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

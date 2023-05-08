@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:shrub_04",
+            "identifier": "accessible_architecture:shrub_04",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

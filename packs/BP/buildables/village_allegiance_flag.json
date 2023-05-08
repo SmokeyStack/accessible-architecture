@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:village_allegiance_flag",
+            "identifier": "accessible_architecture:village_allegiance_flag",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:gate_foundation",
+            "identifier": "accessible_architecture:gate_foundation",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

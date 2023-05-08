@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:boulder_plateau_05",
+            "identifier": "accessible_architecture:boulder_plateau_05",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

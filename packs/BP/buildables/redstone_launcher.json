@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:redstone_launcher",
+            "identifier": "accessible_architecture:redstone_launcher",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

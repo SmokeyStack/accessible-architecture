@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:roaming_spawner_controller_claimed_booster",
+            "identifier": "accessible_architecture:roaming_spawner_controller_claimed_booster",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

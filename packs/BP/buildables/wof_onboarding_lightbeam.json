@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:wof_onboarding_lightbeam",
+            "identifier": "accessible_architecture:wof_onboarding_lightbeam",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_golem_wood",
+            "identifier": "accessible_architecture:spawner_golem_wood",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:dot_poi_01",
+            "identifier": "accessible_architecture:dot_poi_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

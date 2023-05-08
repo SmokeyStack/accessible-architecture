@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:roaming_spawner_controller_claimed_general_night",
+            "identifier": "accessible_architecture:roaming_spawner_controller_claimed_general_night",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

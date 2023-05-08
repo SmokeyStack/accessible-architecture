@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_snowytree_b",
+            "identifier": "accessible_architecture:tree_snowytree_b",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

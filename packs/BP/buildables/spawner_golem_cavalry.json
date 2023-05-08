@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_golem_cavalry",
+            "identifier": "accessible_architecture:spawner_golem_cavalry",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

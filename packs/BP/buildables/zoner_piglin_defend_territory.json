@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_piglin_defend_territory",
+            "identifier": "accessible_architecture:zoner_piglin_defend_territory",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

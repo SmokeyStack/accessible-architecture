@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_piglin_defend_rally",
+            "identifier": "accessible_architecture:prop_piglin_defend_rally",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

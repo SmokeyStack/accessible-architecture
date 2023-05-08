@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:wof_onboarding_lantern_01",
+            "identifier": "accessible_architecture:wof_onboarding_lantern_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

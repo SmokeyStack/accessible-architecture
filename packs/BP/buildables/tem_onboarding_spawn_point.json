@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tem_onboarding_spawn_point",
+            "identifier": "accessible_architecture:tem_onboarding_spawn_point",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

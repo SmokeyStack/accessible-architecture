@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_jungletree_d",
+            "identifier": "accessible_architecture:tree_jungletree_d",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

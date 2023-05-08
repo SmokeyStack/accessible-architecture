@@ -1,13 +1,13 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "Flat world to place all structures",
+		"description": "pack.description",
 		"min_engine_version": [
 			1,
 			16,
 			0
 		],
-		"name": "All the Structures",
+		"name": "pack.name",
 		"uuid": "ab05db2b-a724-478a-a494-f846b735da43",
 		"version": [
 			1,

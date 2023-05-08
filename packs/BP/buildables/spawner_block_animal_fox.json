@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_block_animal_fox",
+            "identifier": "accessible_architecture:spawner_block_animal_fox",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

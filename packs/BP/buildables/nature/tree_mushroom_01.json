@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_mushroom_01",
+            "identifier": "accessible_architecture:tree_mushroom_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

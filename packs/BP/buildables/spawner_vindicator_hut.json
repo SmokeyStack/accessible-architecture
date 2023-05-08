@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_vindicator_hut",
+            "identifier": "accessible_architecture:spawner_vindicator_hut",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_baobab_01",
+            "identifier": "accessible_architecture:tree_baobab_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

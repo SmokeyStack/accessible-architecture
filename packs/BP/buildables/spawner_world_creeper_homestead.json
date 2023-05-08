@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_world_creeper_homestead",
+            "identifier": "accessible_architecture:spawner_world_creeper_homestead",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

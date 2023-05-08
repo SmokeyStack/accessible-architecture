@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:chunk_drag_wall",
+            "identifier": "accessible_architecture:chunk_drag_wall",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

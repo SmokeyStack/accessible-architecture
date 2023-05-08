@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_mount_01_tiger_home",
+            "identifier": "accessible_architecture:poi_mount_01_tiger_home",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

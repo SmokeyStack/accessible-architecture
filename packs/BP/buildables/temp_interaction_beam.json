@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:temp_interaction_beam",
+            "identifier": "accessible_architecture:temp_interaction_beam",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

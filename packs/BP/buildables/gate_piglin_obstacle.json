@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:gate_piglin_obstacle",
+            "identifier": "accessible_architecture:gate_piglin_obstacle",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

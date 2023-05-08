@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:village_decoration_02",
+            "identifier": "accessible_architecture:village_decoration_02",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

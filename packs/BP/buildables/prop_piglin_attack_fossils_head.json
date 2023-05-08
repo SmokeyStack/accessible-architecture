@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_piglin_attack_fossils_head",
+            "identifier": "accessible_architecture:prop_piglin_attack_fossils_head",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

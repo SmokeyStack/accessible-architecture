@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tower_arrow",
+            "identifier": "accessible_architecture:tower_arrow",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

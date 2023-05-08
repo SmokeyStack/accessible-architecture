@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:temp_onboarding_resources_wood",
+            "identifier": "accessible_architecture:temp_onboarding_resources_wood",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:drag_wall_foundation",
+            "identifier": "accessible_architecture:drag_wall_foundation",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

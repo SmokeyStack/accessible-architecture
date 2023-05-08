@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_piglin_invisible_grunter",
+            "identifier": "accessible_architecture:spawner_piglin_invisible_grunter",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

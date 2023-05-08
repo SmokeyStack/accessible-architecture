@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_piglin_invisible_runt",
+            "identifier": "accessible_architecture:spawner_piglin_invisible_runt",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

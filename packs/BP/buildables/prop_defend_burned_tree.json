@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_defend_burned_tree",
+            "identifier": "accessible_architecture:prop_defend_burned_tree",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

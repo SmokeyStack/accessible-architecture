@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_piglin_invisible_warboar",
+            "identifier": "accessible_architecture:spawner_piglin_invisible_warboar",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

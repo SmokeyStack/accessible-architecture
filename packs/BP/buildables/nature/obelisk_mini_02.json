@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:obelisk_mini_02",
+            "identifier": "accessible_architecture:obelisk_mini_02",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

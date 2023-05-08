@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:village_planter_02",
+            "identifier": "accessible_architecture:village_planter_02",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

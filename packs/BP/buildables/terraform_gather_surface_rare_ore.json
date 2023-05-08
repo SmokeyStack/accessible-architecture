@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:terraform_gather_surface_rare_ore",
+            "identifier": "accessible_architecture:terraform_gather_surface_rare_ore",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

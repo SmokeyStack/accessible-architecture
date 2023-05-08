@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:termite_mound_01",
+            "identifier": "accessible_architecture:termite_mound_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

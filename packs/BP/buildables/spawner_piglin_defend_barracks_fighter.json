@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_piglin_defend_barracks_fighter",
+            "identifier": "accessible_architecture:spawner_piglin_defend_barracks_fighter",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tower_piglin_lava_thrower",
+            "identifier": "accessible_architecture:tower_piglin_lava_thrower",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

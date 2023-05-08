@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_rapid_fire_missiles",
+            "identifier": "accessible_architecture:zoner_rapid_fire_missiles",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

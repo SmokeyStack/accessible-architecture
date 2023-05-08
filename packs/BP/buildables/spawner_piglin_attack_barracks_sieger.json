@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_piglin_attack_barracks_sieger",
+            "identifier": "accessible_architecture:spawner_piglin_attack_barracks_sieger",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

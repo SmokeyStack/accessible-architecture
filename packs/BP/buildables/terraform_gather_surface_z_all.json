@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:terraform_gather_surface_z_all",
+            "identifier": "accessible_architecture:terraform_gather_surface_z_all",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

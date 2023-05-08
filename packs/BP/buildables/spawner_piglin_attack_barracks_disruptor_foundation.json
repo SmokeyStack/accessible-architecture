@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_piglin_attack_barracks_disruptor_foundation",
+            "identifier": "accessible_architecture:spawner_piglin_attack_barracks_disruptor_foundation",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_willow_03",
+            "identifier": "accessible_architecture:tree_willow_03",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

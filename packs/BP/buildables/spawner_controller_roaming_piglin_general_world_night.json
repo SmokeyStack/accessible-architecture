@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_controller_roaming_piglin_general_world_night",
+            "identifier": "accessible_architecture:spawner_controller_roaming_piglin_general_world_night",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

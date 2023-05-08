@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_world_skeleton",
+            "identifier": "accessible_architecture:spawner_world_skeleton",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

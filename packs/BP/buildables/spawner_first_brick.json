@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_first_brick",
+            "identifier": "accessible_architecture:spawner_first_brick",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

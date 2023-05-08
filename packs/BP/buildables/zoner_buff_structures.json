@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_buff_structures",
+            "identifier": "accessible_architecture:zoner_buff_structures",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

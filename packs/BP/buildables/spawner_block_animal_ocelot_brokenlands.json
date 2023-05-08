@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_block_animal_ocelot_brokenlands",
+            "identifier": "accessible_architecture:spawner_block_animal_ocelot_brokenlands",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_world_zombie_homestead",
+            "identifier": "accessible_architecture:spawner_world_zombie_homestead",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

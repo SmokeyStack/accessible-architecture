@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_mob_alliance_creeper_central_structure",
+            "identifier": "accessible_architecture:poi_mob_alliance_creeper_central_structure",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

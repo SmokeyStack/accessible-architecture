@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:terraform_gather_surface_stone",
+            "identifier": "accessible_architecture:terraform_gather_surface_stone",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

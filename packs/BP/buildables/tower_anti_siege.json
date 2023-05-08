@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tower_anti_siege",
+            "identifier": "accessible_architecture:tower_anti_siege",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

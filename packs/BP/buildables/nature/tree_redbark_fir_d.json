@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_redbark_fir_d",
+            "identifier": "accessible_architecture:tree_redbark_fir_d",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:onboarding_spawner_hosts",
+            "identifier": "accessible_architecture:onboarding_spawner_hosts",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:gate_door_wood_closed",
+            "identifier": "accessible_architecture:gate_door_wood_closed",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_reservoir_02",
+            "identifier": "accessible_architecture:tree_reservoir_02",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

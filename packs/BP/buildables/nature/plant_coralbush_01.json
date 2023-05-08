@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:plant_coralbush_01",
+            "identifier": "accessible_architecture:plant_coralbush_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

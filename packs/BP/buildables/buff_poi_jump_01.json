@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:buff_poi_jump_01",
+            "identifier": "accessible_architecture:buff_poi_jump_01",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

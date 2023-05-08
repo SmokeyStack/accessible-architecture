@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_piglin_obstacle_barracks_disruptor",
+            "identifier": "accessible_architecture:spawner_piglin_obstacle_barracks_disruptor",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

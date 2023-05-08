@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_controller_roaming_piglin_claimed_area_boosters",
+            "identifier": "accessible_architecture:spawner_controller_roaming_piglin_claimed_area_boosters",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

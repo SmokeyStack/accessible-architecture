@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_first_diorite",
+            "identifier": "accessible_architecture:spawner_first_diorite",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

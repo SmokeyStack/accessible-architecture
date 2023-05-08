@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:totem_unlock_mob_alliance",
+            "identifier": "accessible_architecture:totem_unlock_mob_alliance",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

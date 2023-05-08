@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:prop_piglin_attack_bones_debris",
+            "identifier": "accessible_architecture:prop_piglin_attack_bones_debris",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:tree_spiderroots_04",
+            "identifier": "accessible_architecture:tree_spiderroots_04",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

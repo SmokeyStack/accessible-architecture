@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_loot_treasure_chest",
+            "identifier": "accessible_architecture:poi_loot_treasure_chest",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:chunk_piglin_defend_wall_panel_003",
+            "identifier": "accessible_architecture:chunk_piglin_defend_wall_panel_003",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:spawner_golem_support",
+            "identifier": "accessible_architecture:spawner_golem_support",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

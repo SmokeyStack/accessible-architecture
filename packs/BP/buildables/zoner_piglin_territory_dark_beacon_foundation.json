@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:zoner_piglin_territory_dark_beacon_foundation",
+            "identifier": "accessible_architecture:zoner_piglin_territory_dark_beacon_foundation",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

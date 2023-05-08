@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:gate",
+            "identifier": "accessible_architecture:gate",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

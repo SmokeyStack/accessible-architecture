@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:poi_loot_piglin_crate",
+            "identifier": "accessible_architecture:poi_loot_piglin_crate",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },

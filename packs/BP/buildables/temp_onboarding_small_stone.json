@@ -30,7 +30,7 @@
             ]
         },
         "description": {
-            "identifier": "accessible_architecure:temp_onboarding_small_stone",
+            "identifier": "accessible_architecture:temp_onboarding_small_stone",
             "is_summonable": true,
             "runtime_identifier": "badger:buildable"
         },
